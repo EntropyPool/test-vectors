@@ -1,6 +1,7 @@
 [submodule "gen/extern/filecoin-ffi"]
 	path = gen/extern/filecoin-ffi
 	url = https://github.com/filecoin-project/filecoin-ffi.git
+	branch = entropypool-6b975a73
 [submodule "gen/extern/fil-blst"]
 	path = gen/extern/fil-blst
 	url = https://github.com/filecoin-project/fil-blst.git
