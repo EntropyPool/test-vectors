@@ -31,7 +31,7 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 )
 
-replace github.com/filecoin-project/filecoin-ffi => ./gen/extern/filecoin-ffi
+replace github.com/filecoin-project/filecoin-ffi => ../filecoin-ffi
 
 replace github.com/supranational/blst => ./gen/extern/fil-blst/blst
 
